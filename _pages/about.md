@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student working on Pattern Recognition & Intelligent Systems at Automation, BIT. My current research interest includes object detection, multiple object tracking, person re-identification, etc.
+I am a Master student working on Pattern Recognition & Intelligent Systems Lab Ⅱ at school of Automation, BIT. My current research interest includes object detection, multiple object tracking, person re-identification, etc.
 
 **Email:** 3120190878@bit.edu.cn <br/>
 
